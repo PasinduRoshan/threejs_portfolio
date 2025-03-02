@@ -1,9 +1,3 @@
-"homepage": "https://pasinduroshan.github.io/threejs_portfolio/"
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-
 {
   "name": "threejs_portfolio",
   "private": true,
